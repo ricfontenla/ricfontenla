@@ -8,7 +8,7 @@
 
 <div id="description">
   <p>I'm Ricardo Fontenla, a developer in constant evolution to become my better version.<p>
-  <p>I'm currently involved in 🕸️ development, in projects with <a href="https://github.com/rails/rails/">Ruby On Rails</a>, <a href="https://github.com/graphql">GraphQL</a>, <a href="https://github.com/facebook/react">React</a>, and <a href="https://github.com/rabbitmq/">RabbitMQ</a>./<p>
+  <p>I'm currently involved in 🕸️ development, in projects with <a href="https://github.com/rails/rails/">Ruby On Rails</a>, <a href="https://github.com/graphql">GraphQL</a>, <a href="https://github.com/facebook/react">React</a>, and <a href="https://github.com/rabbitmq/">RabbitMQ</a>.</p>
   <p>My pronouns are: He / Him</p>
 </div>
 
