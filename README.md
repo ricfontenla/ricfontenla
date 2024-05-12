@@ -8,8 +8,7 @@
 
 <div id="description">
   <p>I'm Ricardo Fontenla, a developer in constant evolution to become my better version.<p>
-  <p>I'm currently involved in 🕸️ development, in projects with Ruby On Rails, GraphQL, React, and RabbitMQ.</p>
-  <p>My pronouns are: He / Him</p>
+  <p>I'm currently involved in 🕸️ development, in projects with Ruby On Rails with AVO and JS.</p>
 </div>
 
 ---
