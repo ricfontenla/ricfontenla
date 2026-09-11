@@ -7,9 +7,12 @@
 <br/>
 
 <div id="description">
-  <p>I'm Ricardo Fontenla, a developer in constant evolution to become my better version.<p>
-  <p>I'm currently involved in 🕸️ development, in projects with Ruby On Rails with AVO and JS.</p>
-</div>
+  <p>I'm Ricardo Fontenla, a Fullstack Engineer with 5+ years of experience 
+building web applications that directly impact people's lives.
+
+I'm currently open to new opportunities, focused on remote positions 
+where I can bring my experience with Ruby on Rails, GraphQL, and 
+AI-powered development workflows.<p>
 
 ---
 
