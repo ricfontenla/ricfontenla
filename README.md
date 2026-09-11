@@ -62,7 +62,7 @@
 
   <div id="stats" align="center">
     <img alt="General Stats" height="160px" src="https://ric-fontenla-github-readme-stats.vercel.app/api?username=ricfontenla&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
-    <img alt="Streak Stats" height="160px" src="https://streak-stats.demolab.com?user=ricfontenla&theme=midnight-purple&hide_border=false&fire=DD2727"/>
+    <img alt="Streak Stats" height="160px" src="https://github-readme-streak-stats-salesp07.vercel.app?user=ricfontenla&theme=midnight-purple&hide_border=false&fire=DD2727"/>
     <img alt="Languages Stats" height="160px" src="https://ric-fontenla-github-readme-stats.vercel.app/api/top-langs/?username=ricfontenla&layout=compact&theme=midnight-purple"/>
   </div>
 </details>
@@ -72,12 +72,13 @@
 <details open>
   <summary>
     <h2 id="subtitle3">
-      Trophies <img alt="Cheers!" src="https://media.giphy.com/media/14cDsqOkks6O8U/giphy.gif" width="50">
+      Currently Studying <img alt="Cheers!" src="https://media.giphy.com/media/14cDsqOkks6O8U/giphy.gif" width="50">
     </h2>
   </summary>
 
-  <div id="trophies" align="center">
-    <img alt="Trhophies Hall" src="https://github-profile-trophy.vercel.app/?username=ricfontenla&theme=discord&no-bg=true&no-frame=true"/>
+  <div align="center">
+    <img alt="AI" src="https://img.shields.io/badge/AI%2FML-LLM%20%26%20Agents-blueviolet?style=for-the-badge"/>
+    <img alt="System Design" src="https://img.shields.io/badge/System-Design-orange?style=for-the-badge"/>
   </div>
 </details>  
 
