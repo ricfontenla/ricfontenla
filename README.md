@@ -62,7 +62,7 @@
 
   <div id="stats" align="center">
     <img alt="General Stats" height="160px" src="https://ric-fontenla-github-readme-stats.vercel.app/api?username=ricfontenla&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
-    <img alt="Streak Stats" height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=ricfontenla&theme=midnight-purple&hide_border=false&fire=DD2727"/>
+    <img alt="Streak Stats" height="160px" src="https://streak-stats.demolab.com?user=ricfontenla&theme=midnight-purple&hide_border=false&fire=DD2727"/>
     <img alt="Languages Stats" height="160px" src="https://ric-fontenla-github-readme-stats.vercel.app/api/top-langs/?username=ricfontenla&layout=compact&theme=midnight-purple"/>
   </div>
 </details>
